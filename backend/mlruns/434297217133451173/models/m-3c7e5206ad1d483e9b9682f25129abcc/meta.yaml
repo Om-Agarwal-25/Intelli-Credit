@@ -1,0 +1,10 @@
+artifact_location: file:D:/Projects/Intelli-Credit/backend/mlruns/434297217133451173/models/m-3c7e5206ad1d483e9b9682f25129abcc/artifacts
+creation_timestamp: 1772986751192
+experiment_id: '434297217133451173'
+last_updated_timestamp: 1772986753858
+model_id: m-3c7e5206ad1d483e9b9682f25129abcc
+model_type: null
+name: xgboost_model
+source_run_id: b412e142f8c244e3b149b682afbcc130
+status: 2
+status_message: null

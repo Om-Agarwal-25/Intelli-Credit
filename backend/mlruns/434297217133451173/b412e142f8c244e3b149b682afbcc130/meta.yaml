@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Projects/Intelli-Credit/backend/mlruns/434297217133451173/b412e142f8c244e3b149b682afbcc130/artifacts
+end_time: 1772986753861
+entry_point_name: ''
+experiment_id: '434297217133451173'
+lifecycle_stage: active
+run_id: b412e142f8c244e3b149b682afbcc130
+run_name: synthetic_npa_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772986751173
+status: 3
+tags: []
+user_id: OM

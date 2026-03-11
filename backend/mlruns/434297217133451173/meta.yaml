@@ -1,0 +1,7 @@
+artifact_location: file:D:/Projects/Intelli-Credit/backend/mlruns/434297217133451173
+creation_time: 1772986750896
+experiment_id: '434297217133451173'
+last_update_time: 1772986750896
+lifecycle_stage: active
+name: intelli_credit_xgboost
+workspace: default

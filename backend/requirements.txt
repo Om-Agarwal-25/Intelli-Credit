@@ -1,0 +1,55 @@
+# ─── Core Framework ───────────────────────────────────────────────────────────
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+websockets==12.0
+python-dotenv==1.0.1
+pydantic==2.7.1
+pydantic-settings==2.2.1
+
+# ─── Database ─────────────────────────────────────────────────────────────────
+sqlalchemy==2.0.30
+asyncpg==0.29.0
+psycopg2-binary==2.9.9
+alembic==1.13.1
+
+# ─── Vector Database ──────────────────────────────────────────────────────────
+qdrant-client==1.9.1
+
+# ─── Embeddings & NLP ─────────────────────────────────────────────────────────
+sentence-transformers==3.0.1
+
+# ─── Document Parsing ─────────────────────────────────────────────────────────
+pymupdf==1.24.5
+# easyocr — heavy GPU dep, install separately if needed: pip install easyocr
+# camelot-py[cv] — install separately: pip install camelot-py[cv]
+reportlab==4.2.2
+python-docx==1.1.2
+
+# ─── LLM Providers ────────────────────────────────────────────────────────────
+anthropic==0.28.0
+openai==1.30.1
+
+# ─── ML & Scoring ─────────────────────────────────────────────────────────────
+xgboost==2.0.3
+scikit-learn==1.5.0
+shap==0.45.1
+numpy==1.26.4
+pandas==2.2.2
+
+# ─── Data Visualisation ───────────────────────────────────────────────────────
+matplotlib==3.9.0
+
+# ─── Privacy (Homomorphic Encryption) ────────────────────────────────────────
+# tenseal — may require build tools; install separately: pip install tenseal
+# tenseal==0.3.14
+
+# ─── Databricks / MLflow ──────────────────────────────────────────────────────
+mlflow==2.13.2
+databricks-sdk==0.27.1
+
+# ─── HTTP & Utilities ─────────────────────────────────────────────────────────
+httpx==0.27.0
+aiofiles==23.2.1
+python-jose[cryptography]==3.3.0
+passlib==1.7.4
